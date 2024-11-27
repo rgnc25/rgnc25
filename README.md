@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-[![Readme Card](httpsgithub-readme-stats.vercel.appapipinusername=githubjavascriptebac&repo=variavel&theme=dark)](httpsgithub.comanuraghazragithub-readme-stats)
+[![Anurag's GitHub stats](httpsgithub-readme-stats.vercel.appapiusername=pedrogithub1406&show_icons=true&theme=dark)](httpsgithub.comanuraghazragithub-readme-stats)
