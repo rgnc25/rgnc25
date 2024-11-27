@@ -8,6 +8,6 @@
   #### 3) Aplicativo de registro de cadastro
 
 ### 2º. Projeto que visa desenvolver uma página web onde ficarão disponíveis as Liturgias da Palavra diárias metrificadas, de nome:
-  #### Liturgia Metrificada
+  #### Único) Liturgia Metrificada
 
 [![Anurag's GitHub stats](httpsgithub-readme-stats.vercel.appapiusername=pedrogithub1406&show_icons=true&theme=dark)](httpsgithub.comanuraghazragithub-readme-stats)
