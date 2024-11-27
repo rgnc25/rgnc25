@@ -10,4 +10,4 @@
 ### 2º. Projeto que visa desenvolver uma página web onde ficarão disponíveis as Liturgias da Palavra diárias metrificadas, de nome:
   #### Único) Liturgia Metrificada
 
-[![Anurag's GitHub stats](httpsgithub-readme-stats.vercel.appapiusername=pedrogithub1406&show_icons=true&theme=dark)](httpsgithub.comanuraghazragithub-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
