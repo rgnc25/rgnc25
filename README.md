@@ -3,7 +3,7 @@
 ## Tenho como interesse inicial o desenvolvimento de um conjunto de três projetos padrões, e um único projeto pessoal, a saber:
 
 ### 1º. Os três projetos padrões, de nome:
-  #### 1) Aplicativo de meterologia
+  #### 1) Aplicativo de Meteorologia
   #### 2) Aplicativo de e-commerce
   #### 3) Aplicativo de registro de cadastro
 
