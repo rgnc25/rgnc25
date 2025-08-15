@@ -10,5 +10,3 @@
 
 ### 2º. Projeto que visa desenvolver uma página web onde ficarão disponíveis as Liturgias da Palavra diárias metrificadas, de nome:
   #### Único) Liturgia Metrificada
-
-[![Readme Card](httpsgithub-readme-stats.vercel.appapipinusername=rgnc25&repo=numeros&theme=dark)](httpsgithub.comanuraghazragithub-readme-stats)
