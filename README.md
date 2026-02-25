@@ -7,5 +7,5 @@
   #### 2) Aplicativo de e-commerce
   #### 3) Aplicativo de registro de cadastro
 
-### 2º. Projeto que visa desenvolver uma página web onde ficarão disponíveis a Liturgia da Palavra de cada dia, metrificadas; o projeto de nome:
-  #### Único) Liturgia Metrificada
+### 2º. Projeto que visa desenvolver uma página web onde ficarão disponíveis a Liturgia da Palavra de cada dia, metrificadas; de nome:
+  #### * Liturgia Metrificada
