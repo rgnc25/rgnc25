@@ -1,11 +1,12 @@
 # Bem vindo! Este é o meu perfil.
-## Estou ainda iniciando o aprendizado em JavaScript
-## Tenho como interesse inicial o desenvolvimento de um conjunto de três projetos padrões, e um único projeto pessoal, a saber:
+### Desenvolvedor Front-End | HTML, CSS, JavaScript
 
-### 1º. Os três projetos padrões, de nome:
-  #### 1) Aplicativo de Meteorologia
-  #### 2) Aplicativo de e-commerce
-  #### 3) Aplicativo de registro de cadastro
-
-### 2º. Projeto que visa desenvolver uma página web onde ficarão disponíveis a Liturgia da Palavra de cada dia, metrificadas; de nome:
-  #### * Liturgia Metrificada
+#### Sobre mim:
+Sou desenvolvedor front-end em formação, com foco na criação de interfaces modernas, responsivas e funcionais utilizando HTML, CSS e JavaScript.
+Tenho experiência na construção de páginas web estruturadas, estilizadas com boas práticas de design e interatividade com JavaScript e React. Busco constantemente evoluir minhas habilidades, estudando novas tecnologias e aplicando na prática em projetos próprios.
+Estou em busca de oportunidades para adquirir experiência profissional e contribuir com soluções eficientes e bem construídas.
+Tecnologias:
+• HTML5
+• CSS3 (Flexbox, Grid)
+• JavaScript (ES6+)
+• React
